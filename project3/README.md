@@ -1,4 +1,4 @@
-# 🌐** COVID-19 Global Data Analysis (Jan–Aug 2020)**
+# COVID-19 Global Data Analysis (Jan–Aug 2020)
 
 
 
@@ -12,7 +12,7 @@ It highlights global trends in confirmed cases, recoveries, and deaths, and visu
 
 
 
-## 📂 **Files**
+## 📂 Files
 
 
 
@@ -20,7 +20,6 @@ It highlights global trends in confirmed cases, recoveries, and deaths, and visu
 
 \- `covid\_19\_data.csv` – Dataset containing daily confirmed, recovered, and death counts across countries.
 
-\- `outputs/` – Folder containing output visualizations (line chart, bar chart, heatmap, pie chart).
 
 
 
@@ -28,7 +27,7 @@ It highlights global trends in confirmed cases, recoveries, and deaths, and visu
 
 
 
-\## 📊 **Objectives**
+\## 📊 Objectives
 
 
 
@@ -44,7 +43,7 @@ It highlights global trends in confirmed cases, recoveries, and deaths, and visu
 
 
 
-\## **Technologies Used**
+## Technologies Used
 
 
 
