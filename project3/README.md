@@ -1,4 +1,4 @@
-\# 🌐 COVID-19 Global Data Analysis (Jan–Aug 2020)
+# 🌐** COVID-19 Global Data Analysis (Jan–Aug 2020)**
 
 
 
@@ -12,7 +12,7 @@ It highlights global trends in confirmed cases, recoveries, and deaths, and visu
 
 
 
-\## 📂 Files
+## 📂 **Files**
 
 
 
@@ -28,7 +28,7 @@ It highlights global trends in confirmed cases, recoveries, and deaths, and visu
 
 
 
-\## 📊 Objectives
+\## 📊 **Objectives**
 
 
 
@@ -44,7 +44,7 @@ It highlights global trends in confirmed cases, recoveries, and deaths, and visu
 
 
 
-\## Technologies Used
+\## **Technologies Used**
 
 
 
@@ -66,7 +66,7 @@ It highlights global trends in confirmed cases, recoveries, and deaths, and visu
 
 
 
-\## Results
+\## **Results**
 
 
 
@@ -86,13 +86,13 @@ It highlights global trends in confirmed cases, recoveries, and deaths, and visu
 
 
 
-\## Author
+\## **Author**
 
 
 
 \*\*Jayakrishna Y\*\*  
 
-🔗 GitHub: \[github.com/jayakrishna662](https://github.com/jayakrishna662)
+🔗 GitHub: https://github.com/jayakrishna662
 
 
 
