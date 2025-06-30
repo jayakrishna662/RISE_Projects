@@ -16,9 +16,9 @@ It highlights global trends in confirmed cases, recoveries, and deaths, and visu
 
 
 
-\- `covid\_analysis.ipynb` – Jupyter/Colab notebook with the full data cleaning, analysis, and visualization workflow.
+\- `covid-19_datAnalysis.ipynb` – Jupyter/Colab notebook with the full data cleaning, analysis, and visualization workflow.
 
-\- `covid\_19\_data.csv` – Dataset containing daily confirmed, recovered, and death counts across countries.
+\- `covid_19_data.csv` – Dataset containing daily confirmed, recovered, and death counts across countries.
 
 
 
