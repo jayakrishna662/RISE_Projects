@@ -65,7 +65,7 @@ It highlights global trends in confirmed cases, recoveries, and deaths, and visu
 
 
 
-\## **Results**
+\## Results
 
 
 
@@ -85,11 +85,11 @@ It highlights global trends in confirmed cases, recoveries, and deaths, and visu
 
 
 
-\## **Author**
+\## Author
 
 
 
-\*\*Jayakrishna Y\*\*  
+Jayakrishna Y
 
 🔗 GitHub: https://github.com/jayakrishna662
 
