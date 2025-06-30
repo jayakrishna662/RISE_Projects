@@ -2,7 +2,7 @@
 
 
 
-This project analyzes the worldwide spread of COVID-19 using real-time data from \*\*January to August 2020\*\*.  
+This project analyzes the worldwide spread of COVID-19 using real-time data from January to August 2020.  
 
 It highlights global trends in confirmed cases, recoveries, and deaths, and visualizes how the pandemic evolved over time.
 
@@ -35,7 +35,7 @@ It highlights global trends in confirmed cases, recoveries, and deaths, and visu
 
 \- Visualize the growth, recovery, and death rates across countries.
 
-\- Use \*\*line charts\*\*, \*\*bar graphs\*\*, \*\*pie charts\*\*, and \*\*heatmaps\*\* to tell the visual story of the pandemic.
+\- Use line charts, bar graphs, pie charts, and heatmaps to tell the visual story of the pandemic.
 
 
 
@@ -67,17 +67,15 @@ It highlights global trends in confirmed cases, recoveries, and deaths, and visu
 
 ## Results
 
-
-
 \- The project tells the story of how COVID-19 spread globally from January to August 2020.
 
-\- \*\*Confirmed cases\*\* increased rapidly in the early months, especially after March.
+\- Confirmed cases increased rapidly in the early months, especially after March.
 
-\- By \*\*May 2020\*\*, \*\*recoveries\*\* began to outnumber new confirmed cases, showing progress in treatment and healthcare response.
+\- By May 2020 recoveries began to outnumber new confirmed cases, showing progress in treatment and healthcare response.
 
-\- Despite the rise in cases, \*\*death rates remained relatively low and stable\*\*, offering hope during the crisis.
+\- Despite the rise in cases, death rates remained relatively low and stable, offering hope during the crisis.
 
-\- The visualizations (line chart, bar graph, heatmap, and pie chart) help illustrate how the world moved from \*\*fear and uncertainty\*\* to \*\*signs of control and recovery\*\* by mid-2020.
+\- The visualizations (line chart, bar graph, heatmap, and pie chart) help illustrate how the world moved from fear and uncertainty to igns of control and recovery by mid-2020.
 
 
 
