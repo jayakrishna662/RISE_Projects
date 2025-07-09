@@ -1,56 +1,95 @@
-# 🧠 Customer Segmentation Using K-Means Clustering
+# COVID-19 Global Data Analysis (Jan–Aug 2020)
 
-This project applies **K-Means Clustering** to group mall customers based on their annual income and spending score. By identifying distinct customer segments, this analysis helps businesses understand customer behavior and build targeted marketing strategies.
+
+
+This project analyzes the worldwide spread of COVID-19 using real-time data from January to August 2020.  
+
+It highlights global trends in confirmed cases, recoveries, and deaths, and visualizes how the pandemic evolved over time.
+
+
 
 ---
+
+
 
 ## 📂 Files
 
-- `customerSegmentationUsingKmeans.ipynb` – Complete Jupyter notebook with data preprocessing, analysis, clustering, and visualizations.
-- `Mall_Customers.csv` – Dataset containing customer demographic and financial attributes.
+
+
+\- `covid-19_datAnalysis.ipynb` – Jupyter/Colab notebook with the full data cleaning, analysis, and visualization workflow.
+
+\- `covid_19_data.csv` – Dataset containing daily confirmed, recovered, and death counts across countries.
+
+
+
 
 ---
 
-## 📊 Objectives
 
-- Analyze and visualize customer data (age, gender, income, spending).
-- Apply the **elbow method** to determine the optimal number of clusters.
-- Use **K-Means** to segment customers based on their income and spending score.
-- Visualize customer clusters using both 2D and 3D scatter plots.
+
+\## 📊 Objectives
+
+
+
+\- Track global COVID-19 case trends over time.
+
+\- Visualize the growth, recovery, and death rates across countries.
+
+\- Use line charts, bar graphs, pie charts, and heatmaps to tell the visual story of the pandemic.
+
+
 
 ---
+
+
 
 ## Technologies Used
 
-- Python  
-- Pandas  
-- NumPy  
-- Scikit-learn  
-- Matplotlib  
-- Seaborn  
-- Jupyter Notebook
+
+
+\- Python  
+
+\- Pandas  
+
+\- Matplotlib  
+
+\- Seaborn  
+
+\- NumPy  
+
+\- Jupyter Notebook
+
+
 
 ---
 
-##  Results
 
-- Identified **5 unique customer segments** using K-Means clustering.
-- Applied the **elbow method** to determine the optimal number of clusters.
-- Visualized the clusters based on **Annual Income** and **Spending Score**.
-- 3D plots showed additional insights by incorporating **Age** as a third dimension.
+
+## Results
+
+\- The project tells the story of how COVID-19 spread globally from January to August 2020.
+
+\- Confirmed cases increased rapidly in the early months, especially after March.
+
+\- By May 2020 recoveries began to outnumber new confirmed cases, showing progress in treatment and healthcare response.
+
+\- Despite the rise in cases, death rates remained relatively low and stable, offering hope during the crisis.
+
+\- The visualizations (line chart, bar graph, heatmap, and pie chart) help illustrate how the world moved from fear and uncertainty to igns of control and recovery by mid-2020.
+
+
 
 ---
 
-## 📊 Key Visuals
 
-- 📈 Distribution plots of age, income, and spending score.
-- 🌀 Elbow plot showing WCSS to find optimal `k`.
-- 🎯 2D cluster scatterplot with color-coded segments.
-- 🌐 3D scatterplot showing multi-dimensional separation.
-
----
 
 ## Author
 
-**Jayakrishna Y**  
-🔗 GitHub:(https://github.com/jayakrishna662)
+
+
+Jayakrishna Y
+
+🔗 GitHub: https://github.com/jayakrishna662
+
+
+
