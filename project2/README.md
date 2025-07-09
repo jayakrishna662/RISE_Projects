@@ -1,4 +1,4 @@
-# 🧠 Customer Segmentation Using K-Means Clustering
+#  Customer Segmentation Using K-Means Clustering
 
 This project applies **K-Means Clustering** to group mall customers based on their annual income and spending score. By identifying distinct customer segments, this analysis helps businesses understand customer behavior and build targeted marketing strategies.
 
